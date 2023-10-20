@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Films>
+	<film1>
+		<title>ROTS</title>
+		<year>2005</year>
+		<director>George Lucas</director>
+		<mainactor>Hyden Christien</mainactor>
+		<rating>2</rating>
+		<genre>sci-fi</genre>
+	</film1>
+	<film2>
+		<title>Return of the Jedi</title>
+		<year>1983</year>
+		<director>George Lucas</director>
+		<mainactor>Mark Hamill</mainactor>
+		<rating>2</rating>
+		<genre>sci-fi</genre>
+	</film2>
+	<film3>
+		<title>New Hope</title>
+		<year>1977</year>
+		<director>George Lucas</director>
+		<mainactor>Mark Hamill</mainactor>
+		<rating>2</rating>
+		<genre>sci-fi</genre>
+	</film3>
+	<film4>
+		<title>Empire strkies back</title>
+		<year>1980</year>
+		<director>George Lucas</director>
+		<mainactor>Mark Hamill</mainactor>
+		<rating>2</rating>
+		<genre>sci-fi</genre>
+	</film4>
+	<film5>
+		<title>Phantom Menace</title>
+		<year>1999</year>
+		<director>George Lucas</director>
+		<mainactor>Mark Hamill</mainactor>
+		<rating>2</rating>
+		<genre>sci-fi</genre>
+	</film5>
+</Films>

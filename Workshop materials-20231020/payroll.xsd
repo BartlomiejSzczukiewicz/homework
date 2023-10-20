@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<xsd:element name="employees">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="employee" type="TypeEmployee" minOccurs="1" maxOccurs="unbounded" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:complexType name="TypeEmployee">
+		<xsd:sequence>
+			<xsd:element name="NIP" type="xsd:string"/>
+			<xsd:element name="surname" type="xsd:string"/>
+			<xsd:element name="name" type="xsd:string" minOccurs="0" maxOccurs="2"/>
+			<xsd:element name="dateOfBirth" type="xsd:date"/>
+			<xsd:element name="seniority" type="xsd:integer"/>
+			<xsd:element name="salary" type="xsd:long"/>
+		</xsd:sequence>
+		<xsd:attribute name="sex" type="TypeSex" use="required"/>
+	</xsd:complexType>
+
+	<xsd:simpleType name="TypeSex">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="female"/>
+			<xsd:enumeration value="male"/>
+		</xsd:restriction>
+	</xsd:simpleType>	
+	
+</xsd:schema>

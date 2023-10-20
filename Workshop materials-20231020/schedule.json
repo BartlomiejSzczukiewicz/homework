@@ -1,0 +1,333 @@
+{
+  "plan-zajec": {
+    "okres": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "zajecia": [
+      {
+        "termin": "2023-10-20",
+        "dzien": "Pt",
+        "od-godz": "08:00",
+        "do-godz": "10:30 (3g.)",
+        "przedmiot": "Electronic Data Interchange",
+        "typ": "ćwiczenia",
+        "nauczyciel": "prof. UEK dr hab. Grażyna Paliwoda-Pękosz",
+        "sala": "Paw.A 117 lab. Win10, Office21"
+      },
+      {
+        "termin": "2023-10-20",
+        "dzien": "Pt",
+        "od-godz": "13:15",
+        "do-godz": "14:45 (2g.)",
+        "przedmiot": "Organisation and Management",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Kamila Kwiatkowska",
+        "sala": "Paw.F 107"
+      },
+      {
+        "termin": "2023-10-23",
+        "dzien": "Pn",
+        "od-godz": "08:00",
+        "do-godz": "09:30 (2g.)",
+        "przedmiot": "Introduction to Mathematics",
+        "typ": "ćwiczenia",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.F 102"
+      },
+      {
+        "termin": "2023-10-23",
+        "dzien": "Pn",
+        "od-godz": "11:30",
+        "do-godz": "13:00 (2g.)",
+        "przedmiot": "",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": ""
+      },
+      {
+        "termin": "2023-10-23",
+        "dzien": "Pn",
+        "od-godz": "11:30",
+        "do-godz": "13:00 (2g.)",
+        "przedmiot": "",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "&lt;a href=\"https://planzajec.uek.krakow.pl/index.php?typ=G&amp;grupa=*Centrum Językowe*\"&gt;Wybierz swoją grupę językową&lt;/a&gt;"
+      },
+      {
+        "termin": "2023-10-24",
+        "dzien": "Wt",
+        "od-godz": "09:45",
+        "do-godz": "11:15 (2g.)",
+        "przedmiot": "Computer System Architecture",
+        "typ": "wykład",
+        "nauczyciel": "dr inż. Tadeusz Wilusz",
+        "sala": "Paw.G - 2"
+      },
+      {
+        "termin": "2023-10-24",
+        "dzien": "Wt",
+        "od-godz": "13:15",
+        "do-godz": "14:45 (2g.)",
+        "przedmiot": "",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": ""
+      },
+      {
+        "termin": "2023-10-24",
+        "dzien": "Wt",
+        "od-godz": "13:15",
+        "do-godz": "14:45 (2g.)",
+        "przedmiot": "",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "&lt;a href=\"https://planzajec.uek.krakow.pl/index.php?typ=G&amp;grupa=*Centrum Językowe*\"&gt;Wybierz swoją grupę językową&lt;/a&gt;"
+      },
+      {
+        "termin": "2023-10-25",
+        "dzien": "Śr",
+        "od-godz": "08:00",
+        "do-godz": "09:30 (2g.)",
+        "przedmiot": "Introduction to Mathematics",
+        "typ": "ćwiczenia",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.F 413"
+      },
+      {
+        "termin": "2023-10-25",
+        "dzien": "Śr",
+        "od-godz": "11:30",
+        "do-godz": "13:00 (2g.)",
+        "przedmiot": "",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": ""
+      },
+      {
+        "termin": "2023-10-25",
+        "dzien": "Śr",
+        "od-godz": "11:30",
+        "do-godz": "13:00 (2g.)",
+        "przedmiot": "",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "&lt;a href=\"https://planzajec.uek.krakow.pl/index.php?typ=G&amp;grupa=*Centrum Językowe*\"&gt;Wybierz swoją grupę językową&lt;/a&gt;"
+      },
+      {
+        "termin": "2023-10-25",
+        "dzien": "Śr",
+        "od-godz": "18:30",
+        "do-godz": "20:00 (2g.)",
+        "przedmiot": "Computer Programming 1",
+        "typ": "ćwiczenia",
+        "nauczyciel": "prof. UEK dr hab. Janusz Stal",
+        "sala": "Paw.A 121 lab. Win10, Office21"
+      },
+      {
+        "termin": "2023-10-26",
+        "dzien": "Cz",
+        "od-godz": "08:00",
+        "do-godz": "09:30 (2g.)",
+        "przedmiot": "Theoretical Foundations of Computer Science",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Katarzyna Wójcik",
+        "sala": "Paw.A 013 lab. Win10, Office21"
+      },
+      {
+        "termin": "2023-10-26",
+        "dzien": "Cz",
+        "od-godz": "13:15",
+        "do-godz": "14:45 (2g.)",
+        "przedmiot": "",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": ""
+      },
+      {
+        "termin": "2023-10-26",
+        "dzien": "Cz",
+        "od-godz": "13:15",
+        "do-godz": "14:45 (2g.)",
+        "przedmiot": "",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "&lt;a href=\"https://planzajec.uek.krakow.pl/index.php?typ=G&amp;grupa=*Centrum Językowe*\"&gt;Wybierz swoją grupę językową&lt;/a&gt;"
+      },
+      {
+        "termin": "2023-10-26",
+        "dzien": "Cz",
+        "od-godz": "16:45",
+        "do-godz": "18:15 (2g.)",
+        "przedmiot": "Electronic Data Interchange",
+        "typ": "wykład",
+        "nauczyciel": "prof. UEK dr hab. Grażyna Paliwoda-Pękosz",
+        "sala": "Bibl. 440"
+      },
+      {
+        "termin": "2023-10-27",
+        "dzien": "Pt",
+        "od-godz": "13:15",
+        "do-godz": "14:45 (2g.)",
+        "przedmiot": "Organisation and Management",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Kamila Kwiatkowska",
+        "sala": "Paw.F 107"
+      },
+      {
+        "termin": "2023-10-27",
+        "dzien": "Pt",
+        "od-godz": "18:30",
+        "do-godz": "20:00 (2g.)",
+        "przedmiot": "Electronic Data Interchange",
+        "typ": "Ćwiczenia e - learningowe",
+        "nauczyciel": "prof. UEK dr hab. Grażyna Paliwoda-Pękosz",
+        "sala": "Platforma Moodle"
+      },
+      {
+        "termin": "2023-10-30",
+        "dzien": "Pn",
+        "od-godz": "08:00",
+        "do-godz": "09:30 (2g.)",
+        "przedmiot": "Introduction to Mathematics",
+        "typ": "ćwiczenia",
+        "nauczyciel": "dr Jakub Bielawski",
+        "sala": "Paw.F 102"
+      },
+      {
+        "termin": "2023-10-30",
+        "dzien": "Pn",
+        "od-godz": "11:30",
+        "do-godz": "13:00 (2g.)",
+        "przedmiot": "",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": ""
+      },
+      {
+        "termin": "2023-10-30",
+        "dzien": "Pn",
+        "od-godz": "11:30",
+        "do-godz": "13:00 (2g.)",
+        "przedmiot": "",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "&lt;a href=\"https://planzajec.uek.krakow.pl/index.php?typ=G&amp;grupa=*Centrum Językowe*\"&gt;Wybierz swoją grupę językową&lt;/a&gt;"
+      },
+      {
+        "termin": "2023-10-31",
+        "dzien": "Wt",
+        "od-godz": "08:00",
+        "do-godz": "09:30 (2g.)",
+        "przedmiot": "Computer System Architecture",
+        "typ": "ćwiczenia",
+        "nauczyciel": "dr inż. Tadeusz Wilusz",
+        "sala": "Paw.A 013 lab. Win10, Office21"
+      },
+      {
+        "termin": "2023-10-31",
+        "dzien": "Wt",
+        "od-godz": "09:45",
+        "do-godz": "11:15 (2g.)",
+        "przedmiot": "Computer System Architecture",
+        "typ": "wykład",
+        "nauczyciel": "dr inż. Tadeusz Wilusz",
+        "sala": "Paw.S sala 7"
+      },
+      {
+        "termin": "2023-10-31",
+        "dzien": "Wt",
+        "od-godz": "11:30",
+        "do-godz": "13:00 (2g.)",
+        "przedmiot": "Theoretical Foundations of Computer Science",
+        "typ": "wykład",
+        "nauczyciel": "prof.UEK dr hab.inż. Janusz Morajda",
+        "sala": "Paw.C sala A"
+      },
+      {
+        "termin": "2023-10-31",
+        "dzien": "Wt",
+        "od-godz": "13:15",
+        "do-godz": "14:45 (2g.)",
+        "przedmiot": "",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": ""
+      },
+      {
+        "termin": "2023-10-31",
+        "dzien": "Wt",
+        "od-godz": "13:15",
+        "do-godz": "14:45 (2g.)",
+        "przedmiot": "",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "&lt;a href=\"https://planzajec.uek.krakow.pl/index.php?typ=G&amp;grupa=*Centrum Językowe*\"&gt;Wybierz swoją grupę językową&lt;/a&gt;"
+      },
+      {
+        "termin": "2023-11-02",
+        "dzien": "Cz",
+        "od-godz": "09:45",
+        "do-godz": "11:15 (2g.)",
+        "przedmiot": "Organisation and Management",
+        "typ": "Przeniesienie zajęć",
+        "nauczyciel": "dr Małgorzata Marchewka",
+        "sala": "",
+        "uwagi": "Zajęcia przeniesione na 07.11.2023r."
+      },
+      {
+        "termin": "2023-11-02",
+        "dzien": "Cz",
+        "od-godz": "13:15",
+        "do-godz": "14:45 (2g.)",
+        "przedmiot": "",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": ""
+      },
+      {
+        "termin": "2023-11-02",
+        "dzien": "Cz",
+        "od-godz": "13:15",
+        "do-godz": "14:45 (2g.)",
+        "przedmiot": "",
+        "typ": "lektorat",
+        "nauczyciel": "",
+        "sala": "&lt;a href=\"https://planzajec.uek.krakow.pl/index.php?typ=G&amp;grupa=*Centrum Językowe*\"&gt;Wybierz swoją grupę językową&lt;/a&gt;"
+      },
+      {
+        "termin": "2023-11-02",
+        "dzien": "Cz",
+        "od-godz": "16:45",
+        "do-godz": "18:15 (2g.)",
+        "przedmiot": "Electronic Data Interchange",
+        "typ": "wykład",
+        "nauczyciel": "prof. UEK dr hab. Grażyna Paliwoda-Pękosz",
+        "sala": "Bibl. 440"
+      },
+      {
+        "termin": "2023-11-03",
+        "dzien": "Pt",
+        "od-godz": "13:15",
+        "do-godz": "14:45 (2g.)",
+        "przedmiot": "Organisation and Management",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Kamila Kwiatkowska",
+        "sala": "Paw.F 107"
+      },
+      {
+        "termin": "2023-11-03",
+        "dzien": "Pt",
+        "od-godz": "19:15",
+        "do-godz": "20:00 (1g.)",
+        "przedmiot": "Electronic Data Interchange",
+        "typ": "Ćwiczenia e - learningowe",
+        "nauczyciel": "prof. UEK dr hab. Grażyna Paliwoda-Pękosz",
+        "sala": "Platforma Moodle"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Films>
+	<film category = "sci-fi">
+		<title language = "en">ROTS</title>
+		<year>2005</year>
+		<director>George Lucas</director>
+		<mainactor>Hyden Christien</mainactor>
+		<rating>2</rating>
+		<genre>sci-fi</genre>
+	</film>
+	<film category = "sci-fi">
+		<title language = "en">Return of the Jedi</title>
+		<year>1983</year>
+		<director>George Lucas</director>
+		<mainactor>Mark Hamill</mainactor>
+		<rating>2</rating>
+		<genre>sci-fi</genre>
+	</film>
+	<film category = "sci-fi">
+		<title language = "en">New Hope</title>
+		<year>1977</year>
+		<director>George Lucas</director>
+		<mainactor>Mark Hamill</mainactor>
+		<rating>2</rating>
+		<genre>sci-fi</genre>
+	</film>
+	<film category = "sci-fi">
+		<title language = "en">Empire strkies back</title>
+		<year>1980</year>
+		<director>George Lucas</director>
+		<mainactor>Mark Hamill</mainactor>
+		<rating>2</rating>
+		<genre>sci-fi</genre>
+	</film>
+	<film category = "sci-fi">
+		<title language = "en">Phantom Menace</title>
+		<year>1999</year>
+		<director>George Lucas</director>
+		<mainactor>Mark Hamill</mainactor>
+		<rating>2</rating>
+		<genre>sci-fi</genre>
+	</film>
+</Films>

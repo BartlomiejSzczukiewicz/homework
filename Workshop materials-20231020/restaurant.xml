@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<restaurant>
+	<name>Corleone</name>
+	<url>http://www.corleone.krakow.pl</url>
+	<menu type="main course">
+		<name>Two large steamed cabbage leaves stuffed with pure ground turkey, baked in sweet and sour sauce, served with real mashed potatoes, broccoli and carrots</name>
+		<price currency="PLN">57</price>
+	</menu>
+	<menu type="main course">
+		<name>Large lamb shank cooked in special sauce and served with real mashed potatoes, broccoli and carrots</name>
+		<price currency="PLN">31</price>
+	</menu>
+	<menu type="starter">
+		<name>Chicken Soup</name>
+		<price currency="PLN">7</price>
+	</menu>
+	<menu type="main course">
+		<name>Fresh filet of salmon sautéed in very delicious homemade tomato sauce, served with real mashed potatoes broccoli and carrots</name>
+		<price currency="PLN">38</price>
+	</menu>
+	<menu type="starter">
+		<name>Salad</name>
+		<price currency="PLN">12</price>
+	</menu>
+	<menu type='main course'>
+		<name>Fresh sautéed shrimp served on a bed of linguini with garlic cream or tomato cream sauce </name>
+		<price currency="PLN">36</price>
+	</menu>
+</restaurant>
